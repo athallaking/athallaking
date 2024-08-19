@@ -1,0 +1,72 @@
+.body {
+    background-color: #cfba59;
+}
+.center {
+    color: #4dbccf;
+    text-align: center;
+    background-color: #686762;
+    font-size: 100px;
+}
+#para1{
+    color: aqua;
+    font-size: larger;
+}
+#para2{
+    background-color: antiquewhite; 
+}
+.dibudi{
+    color: chocolate;
+}
+#limbad{
+    background-color: aqua;
+    font-weight: bold ;
+    font-size: 25x;
+    text-align: center;
+}
+#loby{
+    font-style: italic;
+    font-size: 75;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+#halo{
+    text-align: center;
+}
+#contain{
+    text-align: center;
+    border: 15PX;
+    background-color: white;
+}
+
+.santi{
+    background-color: antiquewhite;
+}
+.card-container {
+    display: flex;
+    justify-content: center; /* Untuk menengah card secara horizontal */
+    align-items:center ;
+    gap: 20px;
+    flex-wrap: wrap;
+    min-height: 100vh;
+}
+.card-container {
+    background-color: rgb(155, 167, 178);
+    padding: 5px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+
+.card-body {
+    background-color: #ccd2c2;
+}
+    .hidden {
+        display: none;
+    }
+    .card-container {
+        margin: 20px;
+    }
+    .card-img-top {
+        width: 100%;
+    }
